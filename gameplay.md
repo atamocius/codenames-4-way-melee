@@ -1,3 +1,5 @@
+[Back to Home](./README.md)
+
 # Gameplay Guide
 
 ## Coin Toss

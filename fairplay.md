@@ -1,3 +1,5 @@
+[Back to Home](./README.md)
+
 # Fairplay
 
 > ## _**Competitiveness**_ should always come with _**Sportsmanship**_ 😎🤝

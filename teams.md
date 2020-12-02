@@ -1,3 +1,5 @@
+[Back to Home](./README.md)
+
 # Teams
 
 - Four (4) _Team Captains_ will be chosen by the _committee_.

@@ -1,3 +1,5 @@
+[Back to Home](./README.md)
+
 # Disconnections & Game Crashes
 
 If for some reason a round in progress is disrupted by a power outage, disconnections, or game crashes.
