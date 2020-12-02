@@ -14,7 +14,11 @@
 
 - Each round won by a team goes to their _point total_.
 
-- The _top 2 teams_ with the highest point total will move to the finals. See [Moving To The Finals](#moving-to-the-finals) section below.
+- The _top 2 teams with the **highest point total**_ will move to the finals. See [Moving To The Finals](#moving-to-the-finals) section below.
+
+### Example
+
+![points-ex-1](https://user-images.githubusercontent.com/6222358/100940588-2d077600-3533-11eb-8234-e5324595e488.png)
 
 ## Attendance
 
@@ -28,7 +32,7 @@
 
 - The _top 2 teams_ will go head-to-head in the _finals_.
 
-  - If 2 or more teams are tied, the [tiebreak rules](#tiebreakers) will be followed.
+  - If 2 or more teams are tied, the [tiebreaker rules](#tiebreakers) will be followed.
 
 ## Tiebreakers
 
