@@ -24,4 +24,4 @@
 
 - Must not have similar spellings to any card on the board
 
-  - ie. root words; added prefixes/suffixes _(panlapi: unlapi, gitlapi, hulapi)_
+  - ie. root words; added prefixes/infixes/suffixes _(panlapi: unlapi, gitlapi, hulapi)_
