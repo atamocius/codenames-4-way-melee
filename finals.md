@@ -10,9 +10,9 @@
 
 - The first team to win _3 rounds_, is _crowned_ the _**Champions**_.
 
-- If after 4 rounds, there is a tie, teams have to go into [Sudden Death](#☠-sudden-death-☠).
+- If after 4 rounds, there is a tie, teams have to go into [Sudden Death](#sudden-death).
 
-## ☠ Sudden Death ☠
+## Sudden Death
 
 - Only 1 round is played
 
