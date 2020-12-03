@@ -20,7 +20,7 @@
 
   > ### Regarding Tagalog
   >
-  > Tagalog words can be tricky as we use a lot of _Taglish_. However we need to draw the line and restrict Tagalog hints to _malay-based_ words (ie. lalake, babae, upuan, salumpuwit, etc.) and _widely accepted, borrowed foreign_ words (ie. mesa, trapiko, liberasyon, silya, tiangge, etc.).
+  > Tagalog words can be tricky as we use a lot of _Taglish_. However we need to draw the line and restrict Tagalog hints to _malay-based_ words (ie. lalake, babae, upuan, salumpuwit, etc.) and _widely accepted, borrowed Spanish_ words (ie. mesa, trapiko, liberasyon, silya, etc.). Simply put, _English is not allowed_.
 
 - Must not have similar spellings to any card on the board
 
