@@ -24,7 +24,7 @@
 
 - Please see the main [Attendance](./attendance.md) page for the general rules.
 
-- A team winning agains a team that forfeited is _awarded the full 3 points_.
+- A team winning against a team that forfeited is _awarded the full 3 points_.
 
 - If both teams forfeited, _both teams will get 0 points_.
 
