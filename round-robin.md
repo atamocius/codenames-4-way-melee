@@ -38,7 +38,7 @@
 
 ### 2-Way Tie
 
-- The _winner of the head-to-head_ matchup between the 2 teams will dictate which advances to the [finals](./finals.md).
+- The _winner of the head-to-head_ matchup between the 2 teams will decide which advances to the [finals](./finals.md).
 
 ### More than 2 Teams Tied
 
