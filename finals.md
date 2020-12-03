@@ -12,7 +12,7 @@
 
 - If after 4 rounds, there is a tie, teams have to go into [Sudden Death](#sudden-death).
 
-## Sudden Death
+## ☠ Sudden Death ☠
 
 - Only 1 round is played
 
