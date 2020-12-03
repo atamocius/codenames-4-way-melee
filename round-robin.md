@@ -50,8 +50,8 @@ If a winner has been determined but we still need 1 more team to advance, _the o
 
 - **Check #2:** Compare the standings, but only considering their 3rd round performances of their head-to-head matches (ie. who won the 3rd round of a match will get a _"win"_).
 
-- **Check #3:** Same as _Check #2_ but considering the 2nd round.
+- **Check #3:** Same as _Check #2_ but considering _only_ the 2nd round.
 
-- **Check #4:** Same as _Check #2_ but considering the 1st round.
+- **Check #4:** Same as _Check #2_ but considering _only_ the 1st round.
 
 - **Check #5:** If at this point we still have a tie, it will have to be resolved _by chance_ using a _[roulette](https://wheelofnames.com/) (aka roleta)_.
