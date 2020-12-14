@@ -46,7 +46,7 @@ If 3 or more teams are tied, a sequence of checks would have to be made, one aft
 
 If a winner has been determined but we still need 1 more team to advance, _the order of the checks will reset and start back at **Check #1** for the remaining unqualified teams_.
 
-- **Check #1:** Compare the standings between the unqualified teams. If there is still no clear winner, move on to the next check.
+- **Check #1:** Compare the standings between the remaining unqualified teams. If there is still no clear winner, move on to the next check.
 
 - **Check #2:** Compare the standings, but only considering their 3rd round performances of their head-to-head matches (ie. who won the 3rd round of a match will get a _"win"_).
 
